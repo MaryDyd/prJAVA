@@ -1,4 +1,4 @@
-package PR3;
+package org.example;
 
 import java.util.InputMismatchException; // Для обробки виключень введення.
 import java.util.Scanner; // Для читання введення користувача.

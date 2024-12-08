@@ -1,4 +1,4 @@
-package PR2.main.java.org.example; // Пакет, до якого належить клас TransactionReportGenerator.
+package org.example; // Пакет, до якого належить клас TransactionReportGenerator.
 
 import java.util.HashMap; // Для створення словника.
 import java.util.List; // Для роботи зі списками.

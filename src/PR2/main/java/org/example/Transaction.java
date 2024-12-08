@@ -1,4 +1,4 @@
-package PR2.main.java.org.example; // Вказівка на пакет, до якого належить клас Transaction.
+package org.example; // Вказівка на пакет, до якого належить клас Transaction.
 
 import lombok.AllArgsConstructor; // Імпорт анотації для автоматичного створення конструктора.
 import lombok.Data; // Імпорт анотації для автоматичного генерування геттерів, сеттерів, equals, hashCode, toString.

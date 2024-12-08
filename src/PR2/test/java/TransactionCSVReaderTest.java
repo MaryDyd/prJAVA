@@ -1,5 +1,3 @@
-package PR2.test.java;
-
 import PR2.main.java.org.example.Transaction;
 import PR2.main.java.org.example.TransactionCSVReader;
 import org.junit.jupiter.api.Test;

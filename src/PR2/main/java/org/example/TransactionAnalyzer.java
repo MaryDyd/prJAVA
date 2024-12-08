@@ -1,4 +1,4 @@
-package PR2.main.java.org.example; // Пакет, до якого належить клас TransactionAnalyzer.
+package org.example; // Пакет, до якого належить клас TransactionAnalyzer.
 
 import java.util.Comparator; // Для порівняння об'єктів при сортуванні.
 import java.util.List; // Для роботи зі списками.

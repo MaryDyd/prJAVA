@@ -1,4 +1,4 @@
-package PR2.main.java.org.example; // Вказуємо пакет, до якого належить клас TransactionCSVReader.
+package org.example; // Вказуємо пакет, до якого належить клас TransactionCSVReader.
 
 import java.io.BufferedReader; // Для читання тексту з вхідного потоку.
 import java.io.IOException; // Для обробки виключень вводу/виводу.

@@ -1,4 +1,4 @@
-package PR2.main.java.org.example; // Вказівка пакету, в якому знаходиться клас Main.
+package org.example; // Вказівка пакету, в якому знаходиться клас Main.
 import java.util.List; // Імпорт класу List для роботи зі списками.
 
 public class Main { // Головний клас програми.
