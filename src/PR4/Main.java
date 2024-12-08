@@ -83,7 +83,7 @@ class OrderProcessor<T extends Product> {
         this.product = product;
     }
 
-    // Метод для обробки замовлення
+    //  Метод для обробки замовлення
     public void process() {
         System.out.println("Processing order for: " + product.getName() + " with price: " + product.getPrice());
         // Виводимо в консоль інформацію про оброблюваний товар
